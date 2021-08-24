@@ -164,5 +164,5 @@ var gifs = [
 	{
         modelo:40,
         img: "https://i.postimg.cc/G2JYySRJ/40.gif"
-    }
+    },
 ];
