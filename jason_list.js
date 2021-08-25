@@ -239,7 +239,7 @@ var gifs = [
         {
         modelo:50,
         img: "https://i.postimg.cc/zXY65yts/50.gif" 
-    },
+    }
 	
 ];
 
