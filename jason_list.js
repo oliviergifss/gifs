@@ -1,47 +1,41 @@
 var gifs = [
-    {
-        modelo:01,
-        img: "https://i.postimg.cc/VLsgGX5v/01.gif"
-    },
-    {
+     {
         modelo:02,
-        img: "https://i.postimg.cc/VLsgGX5v/01.gif"
+        img: "https://i.postimg.cc/m2Z1fwYx/2.gif"
     },
     {
         modelo:03,
-        img: "https://i.postimg.cc/VLsgGX5v/01.gif"
-    },
-    {
-        modelo:03,
-        img: "https://i.postimg.cc/VLsgGX5v/01.gif"
+        img: "https://i.postimg.cc/zvxBXsns/3.gif"
+   
     },
     {
         modelo:04,
-        img: "https://i.postimg.cc/VLsgGX5v/01.gif"
+        img: "https://i.postimg.cc/3xswRCvx/4.gif"
     },
     {
         modelo:05,
-        img: "https://i.postimg.cc/VLsgGX5v/01.gif"
+        img: "https://i.postimg.cc/fRLdXKy7/5.gif"
     },
     {
         modelo:06,
-        img: "https://i.postimg.cc/VLsgGX5v/01.gif"
+        img: "https://i.postimg.cc/wTXj4syt/6.gif"
     },
     {
         modelo:07,
-        img: "https://i.postimg.cc/VLsgGX5v/01.gif"
+        img: "https://i.postimg.cc/6pz5tJht/7.gif"
     },
-    {
+    
+	{
         modelo:08,
-        img: "https://i.postimg.cc/VLsgGX5v/01.gif"
+        img: "https://i.postimg.cc/g2GkCk8g/8.gif"
     },
-    {
+	{
         modelo:09,
-        img: "https://i.postimg.cc/VLsgGX5v/01.gif"
+        img: "https://i.postimg.cc/MK2GYYT2/9.gif"
     },
     {
         modelo:10,
-        img: "https://i.postimg.cc/VLsgGX5v/01.gif"
+        img: "https://i.postimg.cc/L4ZXfWm3/10.gif"
     },
     {
         modelo:11,
