@@ -239,7 +239,58 @@ var gifs = [
         {
         modelo:50,
         img: "https://i.postimg.cc/zXY65yts/50.gif" 
+    },
+	
+   	{
+        modelo:51,
+        img: "https://i.postimg.cc/9MK3y1B0/51.gif" 
+    },
+
+        {
+        modelo:52,
+        img: "https://i.postimg.cc/Gh0w272S/52.gif" 
+    },
+     
+        {
+        modelo:53,
+        img: "https://i.postimg.cc/vmZCjCqD/53.gif"
+    },
+
+        {
+        modelo:54,
+        img: "https://i.postimg.cc/MTcNZV8S/54.gif"
+    },
+
+        {
+        modelo:55,
+        img: "https://i.postimg.cc/kGb0s8jc/55.gif"
+    },
+ 
+        {
+        modelo:56,
+        img: "https://i.postimg.cc/Njgn9Wwb/56avi.gif"
+    },
+
+        {
+        modelo:57,
+        img: "https://i.postimg.cc/pXgNm0L6/57.gif"
+    },
+
+        {
+        modelo:58,
+        img: "https://i.postimg.cc/WzCyJ3Tk/58.gif"
+    },
+
+        {
+        modelo:59,
+        img: "https://i.postimg.cc/fLHpDCP5/59avi.gif"
+    },
+
+        {
+        modelo:60,
+        img: "https://i.postimg.cc/PfR976Y5/60.gif"
     }
+
 	
 ];
 
