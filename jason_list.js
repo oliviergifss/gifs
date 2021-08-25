@@ -1,4 +1,8 @@
 var gifs = [
+	{
+        modelo:01,
+        img: "https://i.postimg.cc/VLsgGX5v/01.gif"
+    },
      {
         modelo:02,
         img: "https://i.postimg.cc/m2Z1fwYx/2.gif"
