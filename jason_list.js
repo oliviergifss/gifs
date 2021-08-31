@@ -375,7 +375,7 @@ var gifs = [
     
 	{
         modelo:80,
-        img: "https://i.postimg.cc/wMCWjGQ5/80"
+        img: "https://i.postimg.cc/wMCWjGQ5/80.gif"
     },
 	{
         modelo:81,
