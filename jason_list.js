@@ -333,7 +333,52 @@ var gifs = [
 	{
         modelo:70,
         img: "https://i.postimg.cc/cCBmdL6W/70.gif"
+    },
+	{
+        modelo:71,
+        img: "https://i.postimg.cc/HWXvSpYB/71.gif"
+    },
+    {
+        modelo:72,
+        img: "https://i.postimg.cc/P53SLJyr/72.gif"
+   
+    },
+    {
+        modelo:73,
+        img: "https://i.postimg.cc/wj0Gh0qz/73.gif"
+    },
+    {
+        modelo:74,
+        img: "https://i.postimg.cc/MHS5kQ6t/74.gif"
+    },
+    {
+        modelo:75,
+        img: "https://i.postimg.cc/Pq0K470g/75.gif"
+    },
+    {
+        modelo:76,
+        img: "https://i.postimg.cc/B6bzMyZs/76.gif"
+    },
+    
+	{
+        modelo:77,
+        img: "https://i.postimg.cc/k4B3VLKL/77.gif"
+    },
+{
+        modelo:78,
+        img: "https://i.postimg.cc/QM6Zdj9p/78.gif"
+    },
+    {
+        modelo:79,
+        img: "https://i.postimg.cc/HncZHgXs/79"
+    },
+    
+	{
+        modelo:80,
+        img: "https://i.postimg.cc/wMCWjGQ5/80"
     }
+	
+	
 
 
         
