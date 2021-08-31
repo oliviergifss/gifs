@@ -376,7 +376,96 @@ var gifs = [
 	{
         modelo:80,
         img: "https://i.postimg.cc/wMCWjGQ5/80"
+    },
+	{
+        modelo:81,
+        img: "https://i.postimg.cc/Bv4VFR9M/81.gif"
+    },
+    {
+        modelo:82,
+        img: "https://i.postimg.cc/XNt35N2L/82.gif"
+   
+    },
+    {
+        modelo:83,
+        img: "https://i.postimg.cc/9fXj2DMm/83.gif"
+    },
+    {
+        modelo:84,
+        img: "https://i.postimg.cc/W34YWr4Z/84.gif"
+    },
+    {
+        modelo:85,
+        img: "https://i.postimg.cc/52cG46Pc/85.gif"
+    },
+    {
+        modelo:86,
+        img: "https://i.postimg.cc/rwSHKMbD/86.gif"
+    },
+    
+	{
+        modelo:87,
+        img: "https://i.postimg.cc/hGRq5CFd/87.gif"
+    },
+{
+        modelo:88,
+        img: "https://i.postimg.cc/k4nPnBgM/88.gif"
+    },
+    {
+        modelo:89,
+        img: "https://i.postimg.cc/MTd2Xqn7/89.gif"
+    },
+    
+	{
+        modelo:90,
+        img: "https://i.postimg.cc/VLTwjfD4/90.gif"
+    },
+{
+        modelo:91,
+        img: "https://i.postimg.cc/bYmpwHn7/91.gif"
+    },
+    {
+        modelo:92,
+        img: "https://i.postimg.cc/0NL07d9y/92.gif"
+   
+    },
+    {
+        modelo:93,
+        img: "https://i.postimg.cc/DyF5CgLW/93avi.gif"
+    },
+    {
+        modelo:94,
+        img: "https://i.postimg.cc/m2GpvRfg/94.gif"
+    },
+    {
+        modelo:95,
+        img: "https://i.postimg.cc/SNW3RR79/95.gif"
+    },
+    {
+        modelo:96,
+        img: "https://i.postimg.cc/pVgMy3ww/96.gif"
+    },
+    
+	{
+        modelo:97,
+        img: "https://i.postimg.cc/t4QvHjKg/97.gif"
+    },
+{
+        modelo:98,
+        img: "https://i.postimg.cc/3Nq6G0fj/98.gif"
+    },
+    {
+        modelo:99,
+        img: "https://i.postimg.cc/HsRDcRfG/99.gif"
+    },
+    
+	{
+        modelo:100,
+        img: "https://i.postimg.cc/1XzhwQmS/100.gif"
     }
+	
+	
+	
 	
 	
 
