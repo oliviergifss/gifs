@@ -370,7 +370,7 @@ var gifs = [
     },
     {
         modelo:79,
-        img: "https://i.postimg.cc/HncZHgXs/79"
+        img: "https://i.postimg.cc/HncZHgXs/79.gif"
     },
     
 	{
