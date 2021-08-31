@@ -462,19 +462,8 @@ var gifs = [
 	{
         modelo:100,
         img: "https://i.postimg.cc/1XzhwQmS/100.gif"
-    },
-	
-	{ :,
-      
-        img: "https://i.postimg.cc/02F8D7P0/coollogo-com-9411354.png"
     }
 	
-	
-	
-
-
-        
-
     	
 ];
 
