@@ -22,7 +22,8 @@ var modelos = [
         img: "https://i.postimg.cc/3xswRCvx/4.gif"
     },
     {
-        modelo:05,
+        type: "simples",
+        model: "05",
         img: "https://i.postimg.cc/fRLdXKy7/5.gif"
     },
     {
