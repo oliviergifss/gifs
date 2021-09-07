@@ -652,5 +652,10 @@ var modelos = [
        type: "nome",
         model: "18",
         img: "https://i.postimg.cc/xdBf3qkR/18.gif"
+    },
+	{
+       type: "pcback",
+        model: "01",
+        img: "https://i.postimg.cc/xdBf3qkR/18.gif"
     }
 ]
