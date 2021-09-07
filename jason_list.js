@@ -578,5 +578,79 @@ var modelos = [
         type: "nome",
         model: "04",
         img: "https://i.postimg.cc/jdbpQwvw/4.gif"
+    },
+	 {
+       type: "nome",
+        model: "05",
+        img: "https://i.postimg.cc/7YrksQPL/5.gif"
+    },
+    {
+        type: "nome",
+        model: "06",
+        img: "https://i.postimg.cc/Y94HV5mv/6.gif"
+   
+    },
+    {
+        type: "nome",
+        model: "07",
+        img: "https://i.postimg.cc/5trcwskb/7.gif"
+    },
+    {
+        type: "nome",
+        model: "08",
+        img: "https://i.postimg.cc/d3TxmvZ9/8.gif"
+    },
+    {
+        type: "nome",
+        model: "09",
+        img: "https://i.postimg.cc/d1zYK584/9.gif"
+    },
+    {
+        type: "nome",
+        model: "10",
+        img: "https://i.postimg.cc/fWtzg9x8/10.gif"
+    },
+    
+	{
+         type: "nome",
+        model: "11",
+        img: "https://i.postimg.cc/C122qd51/11.gif"
+    },
+{
+         type: "nome",
+        model: "12",
+        img: "https://i.postimg.cc/14hYvTp1/12.gif"
+    },
+    {
+         type: "nome",
+        model: "13",
+        img: "https://i.postimg.cc/8C1x8qx1/13.gif"
+    },
+    
+	{
+         type: "nome",
+        model: "14",
+        img: "https://i.postimg.cc/rsdvnx3x/14.gif"
+    },
+{
+         type: "nome",
+        model: "15",
+        img: "https://i.postimg.cc/wxZKt4RV/15.gif"
+    },
+    {
+         type: "nome",
+        model: "16",
+        img: "https://i.postimg.cc/fRQ6C3KS/16.gif"
+   
+    },
+    {
+         type: "nome",
+        model: "17",
+        img: "https://i.postimg.cc/9F76yPGj/17.gif"
+    },
+    {
+       type: "nome",
+        model: "18",
+        img: "https://i.postimg.cc/xdBf3qkR/18.gif"
     }
 ]
