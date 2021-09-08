@@ -538,6 +538,11 @@ var modelos = [
         model: "100",
         img: "https://i.postimg.cc/1XzhwQmS/100.gif"
     },
+	{
+        type: "simples",
+        model: "101",
+        img: "https://i.postimg.cc/DywLnTz6/reverse.gif"
+    },
     
     {
         type: "casal",
