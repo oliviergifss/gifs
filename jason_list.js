@@ -543,8 +543,57 @@ var modelos = [
         model: "101",
         img: "https://i.postimg.cc/DywLnTz6/reverse.gif"
     },
-    
-    
+    {
+        type: "simples",
+        model: "102",
+        img: "https://i.postimg.cc/mkKNkzNK/102.gif"
+    },
+	{
+        type: "simples",
+        model: "103",
+        img: "https://i.postimg.cc/B6V27Lyt/103avi.gif"
+    },
+	{
+        type: "simples",
+        model: "104",
+        img: "https://i.postimg.cc/FRRjxgT2/104.gif"
+    },
+    {
+        type: "simples",
+        model: "105",
+        img: "https://i.postimg.cc/1zy08ZwR/105.gif"
+    },
+	{
+        type: "simples",
+        model: "106",
+        img: "https://i.postimg.cc/8k7YphTK/106.gif"
+    },
+	{
+        type: "simples",
+        model: "107",
+        img: "https://i.postimg.cc/BZRVXX6q/107.gif"
+    },
+	{
+        type: "simples",
+        model: "108",
+        img: "https://i.postimg.cc/g04VRBHV/108.gif"
+    },
+	{
+        type: "simples",
+        model: "109",
+        img: "https://i.postimg.cc/Z5Ssx2p2/109.gif"
+    },
+	{
+        type: "simples",
+        model: "110",
+        img: "https://i.postimg.cc/V5ynmyz8/110.gif"
+    },
+	{
+        type: "simples",
+        model: "111",
+        img: "https://i.postimg.cc/156Y6snD/111.gif"
+    },
+	
     {
         type: "casal",
         model: "01",
