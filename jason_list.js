@@ -882,10 +882,27 @@ var modelos = [
        type: "nome",
         model: "18",
         img: "https://i.postimg.cc/xdBf3qkR/18.gif"
+  
     },
 	{
-       type: "pcback",
-        model: "01",
-        img: "https://i.postimg.cc/xdBf3qkR/18.gif"
+       type: "nome",
+        model: "19",
+        img: "https://i.postimg.cc/Y9t44BSx/19.gif"
+    },
+	{
+       type: "nome",
+        model: "20",
+        img: "https://i.postimg.cc/9fdRFQcM/20.gif"
+    },
+	
+	{
+       type: "nome",
+        model: "21",
+        img: "https://i.postimg.cc/zXQRxQdJ/21.gif"
+    },
+	{
+       type: "nome",
+        model: "22",
+        img: "https://i.postimg.cc/13NV2KTD/22.gif"
     }
 ]
