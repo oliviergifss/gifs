@@ -413,7 +413,7 @@ var modelos = [
 	{
         type: "simples",
         model: "77",
-        img: "https://i.postimg.cc/k4B3VLKL/77.gif"
+        img: "https://i.postimg.cc/VsqrcRY8/77.gif"
     },
 {
         type: "simples",
