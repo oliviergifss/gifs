@@ -724,6 +724,114 @@ var modelos = [
         model: "137",
         img: "https://i.postimg.cc/JzxX8hxQ/137.gif"
     },
+	{
+        type: "simples",
+        model: "138",
+        img: "https://i.postimg.cc/QMZWnSww/138.gif"
+    },
+	{
+        type: "simples",
+        model: "139",
+        img: "https://i.postimg.cc/tgdV0WHT/139.gif"
+    },
+	{
+        type: "simples",
+        model: "140",
+        img: "https://i.postimg.cc/VkCCR2GX/140.gif"
+    },
+	
+	{
+        type: "simples",
+        model: "141",
+        img: "https://i.postimg.cc/k49KDwyK/141.gif"
+    },
+	{
+        type: "simples",
+        model: "142",
+        img: "https://i.postimg.cc/VkrjhJ6r/142.gif"
+    },
+	
+	{
+        type: "simples",
+        model: "143",
+        img: "https://i.postimg.cc/g033Y13G/143.gif"
+    },
+	{
+        type: "simples",
+        model: "144",
+        img: "https://i.postimg.cc/bNFxLxzf/144.gif"
+    },
+	
+	{
+        type: "simples",
+        model: "145",
+        img: "https://i.postimg.cc/1XmG7Mns/145.gif"
+    },
+	{
+        type: "simples",
+        model: "146",
+        img: "https://i.postimg.cc/qvP8Hphm/146.gif"
+    },
+	
+	{
+        type: "simples",
+        model: "147",
+        img: "https://i.postimg.cc/h4sbQF6j/147.gif"
+    },
+	
+	
+	{
+        type: "simples",
+        model: "148",
+        img: "https://i.postimg.cc/kX5Nx1Py/148.gif"
+    },
+
+	
+	{
+        type: "simples",
+        model: "149",
+        img: "https://i.postimg.cc/j2tc0t9V/149.gif"
+    },
+	
+	{
+        type: "simples",
+        model: "150",
+        img: "https://i.postimg.cc/xCrg5K31/150.gif"
+    },
+	
+	{
+        type: "simples",
+        model: "151",
+        img: "https://i.postimg.cc/44628FMk/151.gif"
+    },
+	
+	{
+        type: "simples",
+        model: "152",
+        img: "https://i.postimg.cc/02ZWvKPV/152.gif"
+    },
+	
+	{
+        type: "simples",
+        model: "153",
+        img: "https://i.postimg.cc/CKnmbvD2/153.gif"
+    },
+	{
+        type: "simples",
+        model: "154",
+        img: "https://i.postimg.cc/NM1Dz5d7/154avi.gif"
+    },
+	{
+        type: "simples",
+        model: "155",
+        img: "https://i.postimg.cc/3xRLxrwY/155.gif"
+    },
+	{
+        type: "simples",
+        model: "156",
+        img: "https://i.postimg.cc/P5RSpGLZ/156.gif"
+    },
+	
     {
         type: "casal",
         model: "01",
