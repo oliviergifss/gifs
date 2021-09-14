@@ -897,6 +897,60 @@ var modelos = [
         model: "29",
         img: "https://i.postimg.cc/qqXMvCWN/29.gif"
     },
+	{
+        type: "casal",
+        model: "30",
+        img: "https://i.postimg.cc/y8B9gzsn/30.gif"
+    },
+	{
+        type: "casal",
+        model: "31",
+        img: "https://i.postimg.cc/G3WvRyfW/31.gif"
+    },
+	
+	{
+        type: "casal",
+        model: "32",
+        img: "https://i.postimg.cc/J4jZzhVG/32.gif"
+    },
+	{
+        type: "casal",
+        model: "33",
+        img: "https://i.postimg.cc/JntjrcML/33.gif"
+    },
+	{
+        type: "casal",
+        model: "34",
+        img: "https://i.postimg.cc/9XRyspLP/34.gif"
+    },
+	{
+        type: "casal",
+        model: "35",
+        img: "https://i.postimg.cc/PxcYPp58/35.gif"
+    },
+	
+	{
+        type: "casal",
+        model: "36",
+        img: "https://i.postimg.cc/0ydYcycL/36.gif"
+    },
+	{
+        type: "casal",
+        model: "37",
+        img: "https://i.postimg.cc/XqCFFjr1/37.gif"
+    },
+	
+	{
+        type: "casal",
+        model: "38",
+        img: "https://i.postimg.cc/k5TxPhrs/38.gif"
+    },
+	{
+        type: "casal",
+        model: "39",
+        img: "https://i.postimg.cc/bdfnnTxQ/39.gif"
+    },
+	
     {
         type: "nome",
         model: "01",
