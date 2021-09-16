@@ -930,7 +930,7 @@ var modelos = [
 	{
         type: "casal",
         model: "20",
-        img: "https://i.postimg.cc/XqZhCgX3/21.gif"
+        img: "https://i.postimg.cc/L8jcDvD8/20.gif"
     },
 	{
         type: "casal",
@@ -957,11 +957,7 @@ var modelos = [
         model: "25",
         img: "https://i.postimg.cc/vTpKL66n/25avi.gif"
     },
-	{
-        type: "casal",
-        model: "12",
-        img: "https://i.postimg.cc/9MPjdHbS/12.gif"
-    },
+	
 	{
         type: "casal",
         model: "26",
