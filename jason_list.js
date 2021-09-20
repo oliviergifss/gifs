@@ -1195,13 +1195,96 @@ var modelos = [
         type: "casal",
         model: "69",
         img: "https://i.postimg.cc/hjNGD30H/69.gif"
-    },
+	},
 	
 	{
         type: "casal",
         model: "70",
         img: "https://i.postimg.cc/7Yd5PhK5/70.gif"
     },
+	{
+        type: "casal",
+        model: "71",
+        img: "https://i.postimg.cc/jdNMksQY/71.gif"
+    },
+	
+	{
+        type: "casal",
+        model: "72",
+        img: "https://i.postimg.cc/GmCqWZq8/72.gif"
+    },
+	
+	{
+        type: "casal",
+        model: "73",
+        img: "https://i.postimg.cc/hjjxF0k7/73.gif"
+    },
+	
+	{
+        type: "casal",
+        model: "74",
+        img: "https://i.postimg.cc/L4GyTqPV/74.gif"
+    },
+	
+	{
+        type: "casal",
+        model: "75",
+        img: "https://i.postimg.cc/j2n72Sdx/75.gif"
+    },
+	
+	{
+        type: "casal",
+        model: "76",
+        img: "https://i.postimg.cc/YStYR78R/76.gif"
+    },
+	
+	{
+        type: "casal",
+        model: "77",
+        img: "https://i.postimg.cc/tgDPmcMj/77.gif"
+    },
+	
+	{
+        type: "casal",
+        model: "78",
+        img: "https://i.postimg.cc/L6Zt6Nnt/78.gif"
+    },
+	
+	{
+        type: "casal",
+        model: "79",
+        img: "https://i.postimg.cc/8CbBgcsx/79.gif"
+    },
+	{
+        type: "casal",
+        model: "80",
+        img: "https://i.postimg.cc/52LSpnJ4/80.gif"
+    },
+	
+	{
+        type: "casal",
+        model: "81",
+        img: "https://i.postimg.cc/R0mQYKCc/81.gif"
+    },
+	
+	{
+        type: "casal",
+        model: "82",
+        img: "https://i.postimg.cc/bYVgvZLh/82.gif"
+    },
+	
+	{
+        type: "casal",
+        model: "83",
+        img: "https://i.postimg.cc/pTXQWvFr/83.gif"
+    },
+	
+	{
+        type: "casal",
+        model: "84",
+        img: "https://i.postimg.cc/bJCxd5xT/84.gif"
+    },
+	
 	
     {
         type: "nome",
