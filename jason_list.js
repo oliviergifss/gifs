@@ -916,7 +916,7 @@ var modelos = [
 	{
         type: "casal",
         model: "17",
-        img: "https://i.postimg.cc/8CtnXY6N/17.gif"
+        img: "https://i.postimg.cc/J4F2SDZ0/17.gif"
     },
 	{
         type: "casal",
@@ -1035,7 +1035,7 @@ var modelos = [
 	{
         type: "casal",
         model: "40",
-        img: "https://i.postimg.cc/vHbvbPS1/40.gif"
+        img: "https://i.postimg.cc/P58RHXQ4/40.gif"
     },
 	{
         type: "casal",
@@ -1066,7 +1066,7 @@ var modelos = [
 	{
         type: "casal",
         model: "46",
-        img: "https://i.postimg.cc/VvBBXM5L/46.gif"
+        img: "https://i.postimg.cc/26YJTsvx/46.gif"
     },
 	{
         type: "casal",
