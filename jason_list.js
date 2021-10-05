@@ -2143,7 +2143,7 @@ var modelos = [
 	{
         type: "casal",
         model: "142",
-        img: "https://i.postimg.cc/5yzSZP1R/142.gif"
+        img: "https://i.postimg.cc/jj1rd50J/142.gif"
     },
 	
 	{
