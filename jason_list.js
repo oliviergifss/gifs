@@ -1229,13 +1229,13 @@ var modelos = [
 	{
         type: "simples",
         model: "227",
-        img: "https://i.postimg.cc/4yqjfxX7/227.gif"
+        img: "https://i.postimg.cc/J46Z37KL/reverse.gif"
     },
 	
 	{
         type: "simples",
         model: "228",
-        img: "https://i.postimg.cc/NF5WvHvv/228.gif"
+        img: "https://i.postimg.cc/QdF5fLnW/228.gif"
     },
 	
 	{
