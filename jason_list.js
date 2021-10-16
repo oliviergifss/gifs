@@ -398,7 +398,7 @@ var modelos = [
     {
         type: "simples",
         model: "74",
-        img: "https://i.postimg.cc/MHS5kQ6t/74.gif"
+        img: "https://i.postimg.cc/wBmXH8br/reverse-1.gif"
     },
     {
        type: "simples",
@@ -2676,7 +2676,11 @@ var modelos = [
        type: "nome",
         model: "38",
         img: "https://i.postimg.cc/FKr2SDmd/38.gif"
+    },
+	{
+       type: "nome",
+        model: "39",
+        img: "https://i.postimg.cc/MHS5kQ6t/74.gif"
     }
-	
 	
 ]
