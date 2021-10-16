@@ -2676,11 +2676,6 @@ var modelos = [
        type: "nome",
         model: "38",
         img: "https://i.postimg.cc/FKr2SDmd/38.gif"
-    },
-	{
-       type: "nome",
-        model: "39",
-        img: "https://i.postimg.cc/MHS5kQ6t/74.gif"
     }
 	
 ]
